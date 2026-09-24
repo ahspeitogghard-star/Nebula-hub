@@ -1,0 +1,21 @@
+# sistema
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+*.code-workspace
+
+# lua / luau
+*.luac
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# logs
+*.log
+build/
+dist/

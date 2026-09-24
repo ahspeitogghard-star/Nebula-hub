@@ -1,0 +1,18 @@
+{
+    "languageMode": "nonstrict",
+    "lint": {
+        "*": true,
+        "LocalUnused": false,
+        "ImportUnused": false
+    },
+    "globals": [
+        "game", "workspace", "script", "Instance", "Enum",
+        "loadstring", "getgenv", "gethui", "setclipboard",
+        "writefile", "readfile", "isfile", "delfile",
+        "isfolder", "makefolder", "listfiles", "getcustomasset",
+        "identifyexecutor", "getexecutorname", "request",
+        "syn", "protectgui", "cloneref", "hookmetamethod",
+        "getnamecallmethod", "checkcaller", "firetouchinterest",
+        "getconnections", "setthreadidentity", "http_request"
+    ]
+}

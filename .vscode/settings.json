@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.lua": "luau",
+        "*.luau": "luau"
+    },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [100],
+    "[luau]": {
+        "editor.defaultFormatter": "JohnnyMorganz.stylua"
+    },
+    "luau-lsp.types.roblox": true,
+    "luau-lsp.sourcemap.enabled": false
+}
